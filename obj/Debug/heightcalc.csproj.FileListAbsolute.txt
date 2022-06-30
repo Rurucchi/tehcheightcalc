@@ -1,0 +1,10 @@
+C:\Users\lenny\source\repos\heightcalc\bin\Debug\heightcalc.exe
+C:\Users\lenny\source\repos\heightcalc\bin\Debug\heightcalc.pdb
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.csproj.AssemblyReference.cache
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.Properties.Resources.resources
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.csproj.GenerateResource.cache
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.csproj.CoreCompileInputs.cache
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.exe
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.pdb
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.subForm.resources
+C:\Users\lenny\source\repos\heightcalc\obj\Debug\heightcalc.baseForm.resources
